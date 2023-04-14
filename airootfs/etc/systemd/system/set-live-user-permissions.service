@@ -1,0 +1,9 @@
+[Unit]
+Description=Set permissions for /home/live
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/chown -R live /home/live
+
+[Install]
+WantedBy=multi-user.target
