@@ -120,7 +120,6 @@ xl2tpd
 zsh
 
 # GUI
-anaconda-installer
 sddm-git
 hyprland-bin
 hyprland-config
