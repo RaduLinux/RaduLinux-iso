@@ -120,7 +120,7 @@ xl2tpd
 zsh
 
 # GUI
-calamares
+anaconda-installer
 sddm-git
 hyprland-bin
 hyprland-config
